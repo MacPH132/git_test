@@ -1,1 +1,3 @@
-print(123_456)
+fruits = ["Apple", "Peach", "Pear"]
+for fruit in fruits:
+    print(fruit)
